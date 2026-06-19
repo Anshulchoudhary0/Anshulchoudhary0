@@ -38,6 +38,16 @@ Image Credit: [pixeljeff](https://www.deviantart.com/pixeljeff/art/Chill-Mario-2
 
 ---
 
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Anshulchoudhary0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+
+</div>
+
+
 # 📊 GitHub Stats
 
 <div align="center">
@@ -50,3 +60,12 @@ Image Credit: [pixeljeff](https://www.deviantart.com/pixeljeff/art/Chill-Mario-2
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshulchoudhary0&theme=tokyonight&hide_border=true&layout=compact)
 
 </div>
+
+
+<div align="center">
+  
+### ⭐ Thanks for visiting my profile!
+
+</div>
+
+
