@@ -2,3 +2,12 @@
 ![Banner](./assetss/banner.gif)
 Image Credit: [pixeljeff](https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885)
 
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-harrshdev52@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harrshdev52@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh5ingh)
+[![Location](https://img.shields.io/badge/📍-Bhopal,_India-2ea44f?style=flat-square)](#)
+
+</div>
