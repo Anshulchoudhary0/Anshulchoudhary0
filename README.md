@@ -7,7 +7,6 @@ Image Credit: [pixeljeff](https://www.deviantart.com/pixeljeff/art/Chill-Mario-2
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-choudharyanshul2582@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:choudharyanshul2582@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshul-c-a15215266?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-c-a15215266/)
-[![Location](https://img.shields.io/badge/📍-Dwarka, Delhi ,_India-2ea44f?style=flat-square)](#)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshul-c-a15215266)
+[![Location](https://img.shields.io/badge/📍-Delhi,_India-2ea44f?style=flat-square)](#)
 </div>
